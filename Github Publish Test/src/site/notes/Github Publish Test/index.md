@@ -4,7 +4,7 @@
 
 
 [[Github Publish Test/Page with pdfs\|Page with pdfs]]
-## Regular link
+## Regular links
 
 ```
 [[Page with pdf]]
