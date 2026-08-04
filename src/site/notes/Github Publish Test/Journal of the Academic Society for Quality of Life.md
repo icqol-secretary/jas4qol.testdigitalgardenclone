@@ -6,7 +6,7 @@
 
 # 📚 JAS4QOL
 
-## 📑 Complete Book Index
+## 📑 Complete Article Index
 This table pulls every book file from your library folder, looks up the connected author profile notes, and automatically merges and formats their names as **"Last, First"**.
 
 | File                                                            | Author(s)                                                                                  | Year | Reading Status | Rating |
