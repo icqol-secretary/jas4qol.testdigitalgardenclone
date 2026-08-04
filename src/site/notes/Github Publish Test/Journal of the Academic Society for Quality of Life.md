@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/github-publish-test/journal-of-the-academic-society-for-quality-of-life/","tags":["gardenEntry"],"dg-note-properties":{"banner":"Github Publish Test/Banners/japan_japanese_garden_bridge-1018x460.jpg","banner-display":"100%","banner-x":47,"banner-y":73,"banner_y":1}}
+{"dg-publish":true,"permalink":"/github-publish-test/journal-of-the-academic-society-for-quality-of-life/","tags":["gardenEntry"],"dg-note-properties":{"banner":"[[Github Publish Test/Banners/JapaneseBridgeBanner.jpg]]","banner-display":"100%","banner-x":47,"banner-y":73,"banner_y":1}}
 ---
 
 
