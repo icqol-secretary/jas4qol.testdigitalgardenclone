@@ -29,7 +29,5 @@ A quick breakdown to track what you are currently reading or what is left on you
 { .block-language-dataview}
 
 ### ⏳ To Read Stack
-- [[Github Publish Test/Library/The Tempest\|The Tempest]]
-- [[Github Publish Test/Library/another book\|another book]]
 
 { .block-language-dataview}
