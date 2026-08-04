@@ -1,0 +1,27 @@
+{
+  "/": [
+    "Github Publish Test"
+  ],
+  "/Github Publish Test": [
+    "Journal of the Academic Society for Quality of Life",
+    "Library",
+    "Volume001",
+    "Authors"
+  ],
+  "/Github Publish Test/Library": [
+    "A Great Paper",
+    "another book",
+    "The end times",
+    "The Tempest"
+  ],
+  "/Github Publish Test/Volume001": [
+    "William Shakespeare"
+  ],
+  "/Github Publish Test/Authors": [
+    "James Thurber",
+    "Jean Dark",
+    "John Smith",
+    "Kurt Vonnegut",
+    "Stephen King"
+  ]
+}
