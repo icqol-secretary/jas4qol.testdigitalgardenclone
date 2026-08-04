@@ -9,10 +9,11 @@
 ## 📑 Complete Article Index
 This table pulls every book file from your library folder, looks up the connected author profile notes, and automatically merges and formats their names as **"Last, First"**.
 
-| File                                                            | Author(s)                                                                                  | Year | Reading Status | Rating |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---- | -------------- | ------ |
-| [[Github Publish Test/Library/A Great Paper\|A Great Paper]] | <ul><li>Smith, John</li><li>Dark, Jean</li><li>King, Stephen</li></ul>                     | 2026 | \-             | \-     |
-| [[Github Publish Test/Library/another book\|another book]]   | <ul><li>Smith, John</li><li>Dark, Jean</li><li>Smith, John</li><li>Shakespeare, </li></ul> | \-   | To Read        | \-     |
+| File                                                            | Author(s)                                                                                         | Year | Reading Status | Rating |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | -------------- | ------ |
+| [[Github Publish Test/Library/The Tempest\|The Tempest]]     | <ul><li>Shakespeare, William</li></ul>                                                            | \-   | To Read        | \-     |
+| [[Github Publish Test/Library/A Great Paper\|A Great Paper]] | <ul><li>Smith, John</li><li>Dark, Jean</li><li>King, Stephen</li></ul>                            | 2026 | \-             | \-     |
+| [[Github Publish Test/Library/another book\|another book]]   | <ul><li>Smith, John</li><li>Dark, Jean</li><li>Smith, John</li><li>Shakespeare, William</li></ul> | \-   | To Read        | \-     |
 
 { .block-language-dataview}
 
@@ -28,6 +29,7 @@ A quick breakdown to track what you are currently reading or what is left on you
 { .block-language-dataview}
 
 ### ⏳ To Read Stack
+- [[Github Publish Test/Library/The Tempest\|The Tempest]]
 - [[Github Publish Test/Library/another book\|another book]]
 
 { .block-language-dataview}

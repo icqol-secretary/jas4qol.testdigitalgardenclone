@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/github-publish-test/library/another-book/","title":"another book","dg-note-properties":{"type":"book","title":"another book","authors":["[[Github Publish Test/Authors/John Smith]]","[[Github Publish Test/Authors/Jean Dark]]","[[Github Publish Test/Authors/John Smith]]","[[Github Publish Test/Authors/Shakespeare]]"],"published":null,"status":"To Read","rating":null}}
+{"dg-publish":true,"permalink":"/github-publish-test/library/another-book/","title":"another book","dg-note-properties":{"type":"book","title":"another book","authors":["[[Github Publish Test/Authors/John Smith]]","[[Github Publish Test/Authors/Jean Dark]]","[[Github Publish Test/Authors/John Smith]]","[[Github Publish Test/Authors/William Shakespeare]]"],"published":null,"status":"To Read","rating":null}}
 ---
 
 
