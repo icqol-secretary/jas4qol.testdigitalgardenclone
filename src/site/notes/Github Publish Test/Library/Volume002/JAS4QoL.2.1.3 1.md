@@ -1,35 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/github-publish-test/library/volume002/jas-4-qo-l-2-1-3-1/","title":"JAS4QoL.2.1.3 1","tags":["dfghdfgh"],"dg-note-properties":{"title":"JAS4QoL.2.1.3 1","paperTitle":"dfghhhdfgh","type_of_file":"article","authors":["[[Github Publish Test/Authors/dfghfdhdfgh]]"],"volume":"14","fullTitle":"JAS4QoL.2.1.3 1","issue":"3","journal":"JAS4QoL","year":"2026","pages":"Page-Page","citation":", D.. dfghhhdfgh. _JAS4QoL_ **2026**, _14_, Page-Page.","monthPublished":"0","abstract":"ghdfgh","status":"status","tags":["dfghdfgh"],"keywords":["dfghdfgh"],"keywordCommaList":"dfghdfgh","keywordCommaTagList":"#dfghdfgh","authors_links":["[[Github Publish Test/Authors/dfghfdhdfgh]]"],"relatedFile":"![[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf]]","relatedFileLink":"[[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf]]"}}
+{"dg-publish":true,"permalink":"/github-publish-test/library/volume002/jas-4-qo-l-2-1-3-1/","title":"JAS4QoL.2.1.3 1","tags":["after-first-exposure","pharmacy-students","pharmaceutical-science-english"],"dg-note-properties":{"title":"JAS4QoL.2.1.3 1","paperTitle":"Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level","type_of_file":"article","authors":["[[Github Publish Test/Authors/Erina Sato]]","[[Github Publish Test/Authors/Yuichiro Nishioka]]","[[Github Publish Test/Authors/Foo Wah Foong]]"],"volume":"2","fullTitle":"JAS4QoL.2.1.3 1","issue":"1","journal":"JAS4QoL","year":"2016","pages":"Page-Page","citation":"SATO, E.; NISHIOKA, Y.; FOONG, F. W.. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2016**, _2_, Page-Page.","monthPublished":"0","abstract":"In a fir t- eme ter (S1)  tudy, although  tudent  had acquired certain level of pharmaceutical  cience Engli h (PSE) ability, the lack of ability/confidence in public  peaking remained. In thi   econd- eme ter (S2)  tudy, we enrolled two cla e  of fir t-year (Yr-1)  tudent  –different from tho e in the prior S1  tudy – who had  tudied PSE in S1, and inve tigated if the degree of  elf-confidence in public  peaking  hown in S1  tudent  wa  improved in the S2  tudent  after  tudying PSE on a weekly ba i  over a 4month period. The S2  tudent  participated in the  tudy without prior knowledge. After completing 12 lecture , each  tudent wa  given a que tionnaire in which to rate a  erie  of item . Ba ed on the re ult , the highe t-rated item wa  item 1 with an average rank  core of >3.5 (ca. 90%), followed by item  (in de cending order) 6, 12, 5, 7, 8, 2, 4, and 9 with  core  of 3.0-3.5, and item  13, 3 and 10 with  core  of 2.5-3.0, while  core  on item 11 wa  the lowe t (2.0-2.5). The perceptive outcome reflected a  imilar perceptive tendency of li ted item  by both S1 and S2  tudent . Furthermore, S2  tudent  –  imilar to S1  tudent  - were lack of confidence in  peaking u ing PSE, de pite having prior (S1) PSE experience. Therefore, the re ult  indicate that the S2  tudent  required more time and experience with PSE before their ability/confidence in public  peaking would improve; however, intere t in learning PSE per i ted in the S2  tudent  after prior expo ure to PSE in S1","status":"status","tags":["after-first-exposure","pharmacy-students","pharmaceutical-science-english"],"keywords":["After first-exposure","pharmacy students","pharmaceutical science English"],"keywordCommaList":"After first-exposure, pharmacy students, pharmaceutical science English","keywordCommaTagList":"#after-first-exposure, #pharmacy-students, #pharmaceutical-science-english","authors_links":["[[Github Publish Test/Authors/Erina Sato]]","[[Github Publish Test/Authors/Yuichiro Nishioka]]","[[Github Publish Test/Authors/Foo Wah Foong]]"],"relatedFile":"![[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf]]","relatedFileLink":"[[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf]]"}}
 ---
 
-dfDocument Keywords
-- #dfghdfgh
+Document Keywords
+- #after-first-exposure
+- #pharmacy-students
+- #pharmaceutical-science-english
 
 keywordBulletList
-- #dfghdfgh
+- #after-first-exposure
+- #pharmacy-students
+- #pharmaceutical-science-english
 
-keywords: dfghdfgh
+keywords: After first-exposure, pharmacy students, pharmaceutical science English
 
-tags: #dfghdfgh
-dfghhhdfgh
+tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
+Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level
 
 Document Abstract
 
-> ghdfgh
+> In a fir t- eme ter (S1)  tudy, although  tudent  had acquired certain level of pharmaceutical  cience Engli h (PSE) ability, the lack of ability/confidence in public  peaking remained. In thi   econd- eme ter (S2)  tudy, we enrolled two cla e  of fir t-year (Yr-1)  tudent  –different from tho e in the prior S1  tudy – who had  tudied PSE in S1, and inve tigated if the degree of  elf-confidence in public  peaking  hown in S1  tudent  wa  improved in the S2  tudent  after  tudying PSE on a weekly ba i  over a 4month period. The S2  tudent  participated in the  tudy without prior knowledge. After completing 12 lecture , each  tudent wa  given a que tionnaire in which to rate a  erie  of item . Ba ed on the re ult , the highe t-rated item wa  item 1 with an average rank  core of >3.5 (ca. 90%), followed by item  (in de cending order) 6, 12, 5, 7, 8, 2, 4, and 9 with  core  of 3.0-3.5, and item  13, 3 and 10 with  core  of 2.5-3.0, while  core  on item 11 wa  the lowe t (2.0-2.5). The perceptive outcome reflected a  imilar perceptive tendency of li ted item  by both S1 and S2  tudent . Furthermore, S2  tudent  –  imilar to S1  tudent  - were lack of confidence in  peaking u ing PSE, de pite having prior (S1) PSE experience. Therefore, the re ult  indicate that the S2  tudent  required more time and experience with PSE before their ability/confidence in public  peaking would improve; however, intere t in learning PSE per i ted in the S2  tudent  after prior expo ure to PSE in S1
 
 Generated Citation
 
-- **Journal Article:**
-<span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted);" title="Click to copy citation">, D.. dfghhhdfgh. _JAS4QoL_ **2026**, _14_, Page-Page.</span>
-
-<button onclick="navigator.clipboard.writeText(', D.. dfghhhdfgh. _JAS4QoL_ **2026**, _14_, Page-Page.'); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
-
-
-**Citation:** `<%- generatedCitationText %>
-
-<button style="padding: 6px 12px; border-radius: 4px; cursor: pointer; background-color: var(--interactive-accent); color: var(--text-on-accent); border-width: medium; border-style: none; border-color: currentcolor; border-image: none; font-weight: bold;">📋 Copy Citation</button>
-
-
+- **Journal Article**:
+click to copy: <span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted);" title="Click to copy citation">SATO, E.; NISHIOKA, Y.; FOONG, F. W.. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2016**, _2_, Page-Page.</span><button onclick="navigator.clipboard.writeText('SATO, E.; NISHIOKA, Y.; FOONG, F. W.. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2016**, _2_, Page-Page.'); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
 
 Citation Styles
 
