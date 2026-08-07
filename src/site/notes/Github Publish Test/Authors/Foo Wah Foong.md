@@ -3,7 +3,7 @@
 ---
 
 
-# Author: Foo Wah Foong
+Foo Wah Foong
 
 ## List of Works
 

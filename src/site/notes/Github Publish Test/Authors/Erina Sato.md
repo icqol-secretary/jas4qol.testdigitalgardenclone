@@ -3,7 +3,7 @@
 ---
 
 
-# Author: Erina Sato
+Erina Sato
 
 ## List of Works
 

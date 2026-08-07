@@ -7,27 +7,13 @@
 # 📚 JAS4QOL
 
 ## 📑 Complete Article Index
-This table pulls every book file from your library folder, looks up the connected author profile notes, and automatically merges and formats their names as **"Last, First"**.
 
-| File                                                                      | Author(s)                                                                                         | Year | Reading Status | Rating |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | -------------- | ------ |
-| [[Github Publish Test/Library/Volume001/The Tempest\|The Tempest]]     | <ul><li>Shakespeare, William</li></ul>                                                            | \-   | To Read        | \-     |
-| [[Github Publish Test/Library/Volume001/A Great Paper\|A Great Paper]] | <ul><li>Smith, John</li><li>Dark, Jean</li><li>King, Stephen</li></ul>                            | 2026 | \-             | \-     |
-| [[Github Publish Test/Library/Volume001/another book\|another book]]   | <ul><li>Smith, John</li><li>Dark, Jean</li><li>Smith, John</li><li>Shakespeare, William</li></ul> | \-   | To Read        | \-     |
+
+| File                                                                          | Author(s)                                                                       | Title           | Year | Volume | Issue |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------- | ---- | ------ | ----- |
+| [[Github Publish Test/Library/Volume001/Untitled 2\|Untitled 2]]           | <ul><li>Imae, Hidefumi</li></ul>                                                | Untitled 2      | 2026 | 1      | 1     |
+| [[Github Publish Test/Library/Volume002/JAS4QoL.2.1.3 1\|JAS4QoL.2.1.3 1]] | <ul><li>Sato, Erina</li><li>Nishioka, Yuichiro</li><li>Foong, Foo Wah</li></ul> | JAS4QoL.2.1.3 1 | 2016 | 2      | 1     |
 
 { .block-language-dataview}
 
 ---
-
-## 📈 Reading Status Summary
-A quick breakdown to track what you are currently reading or what is left on your stack.
-
-### 📖 Currently Reading
-| File | Author(s) |
-| ---- | --------- |
-
-{ .block-language-dataview}
-
-### ⏳ To Read Stack
-
-{ .block-language-dataview}

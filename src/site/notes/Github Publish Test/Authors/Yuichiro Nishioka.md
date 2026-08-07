@@ -3,7 +3,7 @@
 ---
 
 
-# Author: Yuichiro Nishioka
+Yuichiro Nishioka
 
 ## List of Works
 
