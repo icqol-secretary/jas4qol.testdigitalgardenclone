@@ -52,14 +52,19 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
 3
 
 [JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)
-<span style="display: inline-block; max-width: 100%;">
+<div class="copy-url-container" style="max-width: 100%;">
+  <!-- Hidden element to safely pass the path from Dataview without quote issues -->
+  <span class="raw-path" style="display: none;">Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf</span>
+
   <button 
     style="cursor: pointer; padding: 6px 12px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold; text-align: left; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
     onclick="
-      const rawPath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
+      const container = this.closest('.copy-url-container');
+      const rawPath = container.querySelector('.raw-path').innerText.trim();
       const cleanPath = encodeURIComponent(rawPath).replace(/%2F/g, '/');
-      const fullUrl = 'https://vercel.app' + cleanPath;
-      navigator.clipboard.writeText(fullUrl);
+      const domain = ['https:', '', 'jas4qoltestdigitalgardenclone.vercel.app', 'img', 'user', cleanPath].join('/');
+      
+      navigator.clipboard.writeText(domain);
       const lbl = this.querySelector('.btn-lbl');
       const url = this.querySelector('.btn-url');
       lbl.innerText = '📋 Copied URL to clipboard!';
@@ -71,13 +76,17 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
     ">
     <span class="btn-lbl">📋 Click to copy: </span><span class="btn-url" style="font-weight: normal; text-decoration: underline; opacity: 0.9;"></span>
   </button>
-  <img src="x" onerror="
-    const rawPath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
+
+  <!-- This self-destructing script runs natively in the browser to display the link on load -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onload="
+    const container = this.closest('.copy-url-container');
+    const rawPath = container.querySelector('.raw-path').innerText.trim();
     const cleanPath = encodeURIComponent(rawPath).replace(/%2F/g, '/');
-    this.previousElementSibling.querySelector('.btn-url').innerText = 'https://vercel.app' + cleanPath;
+    const domain = ['https:', '', 'jas4qoltestdigitalgardenclone.vercel.app', 'img', 'user', cleanPath].join('/');
+    container.querySelector('.btn-url').innerText = domain;
     this.remove();
   " style="display:none;">
-</span>
+</div>
 
 
 
