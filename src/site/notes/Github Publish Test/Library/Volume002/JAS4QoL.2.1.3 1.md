@@ -36,29 +36,15 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
 ## Link
 
 
-
-
-
 [JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)
-
-<div class="url-btn-wrapper" style="display: block; margin-top: 8px; margin-bottom: 16px; clear: both;">
-  <button onclick="
-    const basePath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
-    const fileName = basePath.split('/').pop();
-    const cleanPath = encodeURIComponent(basePath).replace(/%2F/g, '/'); 
-    
-    const scheme = 'https:';
-    const domain = 'jas4qoltestdigitalgardenclone.vercel.app';
-    const fullUrl = scheme + '//' + domain + '/img/user/' + cleanPath;
-    
-    navigator.clipboard.writeText(fullUrl); 
-    this.innerText = '📋 Copied!'; 
-    setTimeout(() => this.innerText = '📋 Click to copy: ' + fileName, 1500);
-  " style="cursor: pointer; padding: 6px 12px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold; display: inline-flex; align-items: center;">
-    📋 Click to copy: `=split(meta(this.relatedFileLink).path, "/")[-1]`
-  </button>
-</div>
-
+<button onclick="
+  const basePath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
+  const cleanPath = encodeURIComponent(basePath).replace(/%2F/g, '/'); 
+  const fullUrl = 'https://jas4qoltestdigitalgardenclone.vercel.app/img/user/' + cleanPath;
+  navigator.clipboard.writeText(fullUrl); 
+  this.innerText='📋 Copied!'; 
+  setTimeout(() => this.innerText='📋 Click to copy link  📋'+ fullUE, 1500);
+" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Click  to copy link 📋</button>
 
 
 
