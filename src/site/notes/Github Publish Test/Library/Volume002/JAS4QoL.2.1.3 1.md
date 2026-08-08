@@ -42,8 +42,8 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
   const fullUrl = 'https://jas4qoltestdigitalgardenclone.vercel.app/img/user/' + cleanPath;
   navigator.clipboard.writeText(fullUrl); 
   this.innerText='📋 Copied!'; 
-  setTimeout(() => this.innerText='📋 Click to copy link  📋'+ fullUE, 1500);
-" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Click  to copy link 📋</button>
+  setTimeout(() => this.innerText='📋 Click to copy link 📋', 1500);
+" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Click to copy link 📋</button>
 
 ## Embedded Preview
 
