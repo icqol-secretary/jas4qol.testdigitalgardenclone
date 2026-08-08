@@ -46,4 +46,4 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
 <iframe src="/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf" width="100%" height="900px" title="JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf" style="border:1px solid #ccc;"></iframe>
 
 
-
+<button onclick="navigator.clipboard.writeText('SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2016**, _2(1)-3_, 1-7.'); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
