@@ -49,6 +49,33 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
   setTimeout(() => this.innerText='📋 Click to copy link  📋'+ fullUE, 1500);
 " style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Click  to copy link 📋</button>
 
+3 
+
+[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)
+<span style="display: inline-block; max-width: 100%;">
+  <button 
+    style="cursor: pointer; padding: 6px 12px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold; text-align: left; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+    onclick="
+      const rawPath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
+      const cleanPath = encodeURIComponent(rawPath).replace(/%2F/g, '/');
+      const fullUrl = 'https://vercel.app' + cleanPath;
+      navigator.clipboard.writeText(fullUrl); 
+      const originalText = this.innerHTML;
+      this.innerText = '📋 Copied URL to clipboard!'; 
+      setTimeout(() => this.innerHTML = originalText, 1500);
+    ">
+    📋 Click to copy: <span style="font-weight: normal; text-decoration: underline; opacity: 0.9;"></span>
+  </button>
+  <img src="x" onerror="
+    const rawPath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
+    const cleanPath = encodeURIComponent(rawPath).replace(/%2F/g, '/');
+    const fullUrl = 'https://vercel.app' + cleanPath;
+    this.previousElementSibling.querySelector('span').innerText = fullUrl;
+    this.remove();
+  " style="display:none;">
+</span>
+
+
 
 
 ## Embedded Preview
