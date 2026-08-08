@@ -35,10 +35,8 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
 
 ## Link
 
-> <span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted);" title="Click to copy link">[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)</span>
-(📋 Click **link** to copy 📋)
-
-
+[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)
+<button onclick="navigator.clipboard.writeText([JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='(📋 Click  to copy **link** 📋)', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">(📋 Click  to copy **link** 📋)</button>
 
 
 ## Embedded Preview
