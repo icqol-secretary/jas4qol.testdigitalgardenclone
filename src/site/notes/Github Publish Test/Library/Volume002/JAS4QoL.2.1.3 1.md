@@ -55,9 +55,10 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
     this.innerText = '📋 Copied!'; 
     setTimeout(() => this.innerText = '📋 Click to copy: ' + fileName, 1500);
   " style="cursor: pointer; padding: 6px 12px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold; display: inline-flex; align-items: center;">
-    📋 Click to copy: JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf
+    📋 Click to copy: `=split(meta(this.relatedFileLink).path, "/")[-1]`
   </button>
 </div>
+
 
 
 
