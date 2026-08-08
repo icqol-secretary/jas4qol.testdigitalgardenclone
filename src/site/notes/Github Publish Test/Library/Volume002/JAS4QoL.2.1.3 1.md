@@ -76,7 +76,6 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
     ">
     <span class="btn-lbl">📋 Click to copy: </span><span class="btn-url" style="font-weight: normal; text-decoration: underline; opacity: 0.9;"></span>
   </button>
-
   <!-- This self-destructing script runs natively in the browser to display the link on load -->
   <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onload="
     const container = this.closest('.copy-url-container');
@@ -88,6 +87,9 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
   " style="display:none;">
 </div>
 
+
+[JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf](/img/user/Github%20Publish%20Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions%202.rev20170302.pdf)
+<div class="copy-url-container" style="max-width: 100%; display: block;"><span class="raw-path" style="display: none;">Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf</span><button style="cursor: pointer; padding: 6px 12px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold; text-align: left; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" onclick="const container = this.closest('.copy-url-container'); const rawPath = container.querySelector('.raw-path').innerText.trim(); const cleanPath = encodeURIComponent(rawPath).replace(/%2F/g, '/'); const domain = ['https:', '', 'jas4qoltestdigitalgardenclone.vercel.app', 'img', 'user', cleanPath].join('/'); navigator.clipboard.writeText(domain); const lbl = this.querySelector('.btn-lbl'); const url = this.querySelector('.btn-url'); lbl.innerText = '📋 Copied URL to clipboard!'; url.style.display = 'none'; setTimeout(() => { lbl.innerText = '📋 Click to copy: '; url.style.display = 'inline'; }, 1500);"><span class="btn-lbl">📋 Click to copy: </span><span class="btn-url" style="font-weight: normal; text-decoration: underline; opacity: 0.9;"></span></button><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onload="const container = this.closest('.copy-url-container'); const rawPath = container.querySelector('.raw-path').innerText.trim(); const cleanPath = encodeURIComponent(rawPath).replace(/%2F/g, '/'); const domain = ['https:', '', 'jas4qoltestdigitalgardenclone.vercel.app', 'img', 'user', cleanPath].join('/'); container.querySelector('.btn-url').innerText = domain; this.remove();" style="display:none;"></div>
 
 
 
