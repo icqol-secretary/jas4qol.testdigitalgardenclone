@@ -46,7 +46,11 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
     const basePath = 'Github Publish Test/Library/Volume002/JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf';
     const fileName = basePath.split('/').pop();
     const cleanPath = encodeURIComponent(basePath).replace(/%2F/g, '/'); 
-    const fullUrl = 'https://vercel.app' + cleanPath;
+    
+    const scheme = 'https:';
+    const domain = 'jas4qoltestdigitalgardenclone.vercel.app';
+    const fullUrl = scheme + '//' + domain + '/img/user/' + cleanPath;
+    
     navigator.clipboard.writeText(fullUrl); 
     this.innerText = '📋 Copied!'; 
     setTimeout(() => this.innerText = '📋 Click to copy: ' + fileName, 1500);
@@ -54,6 +58,7 @@ tags: #after-first-exposure, #pharmacy-students, #pharmaceutical-science-english
     📋 Click to copy: JAS4QoL.2-1-3.20160331.SATO_S2_perceptions 2.rev20170302.pdf
   </button>
 </div>
+
 
 
 
