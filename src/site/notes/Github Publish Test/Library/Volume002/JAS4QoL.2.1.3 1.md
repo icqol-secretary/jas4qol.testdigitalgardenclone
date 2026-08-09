@@ -97,20 +97,8 @@ shows nice, no clicks
 
 
 ## new 3
-
-<div><span><div style="margin: 1.5em 0; font-family: var(--font-interface);">
-  
-  <p style="line-height: 1.6; margin-bottom: 12px; color: var(--text-normal);" dir="auto">
-     [[Github Publish Test/Authors/Erina Sato\|SATO, E.]]; [[Github Publish Test/Authors/Yuichiro Nishioka\|NISHIOKA, Y.]]; [[Github Publish Test/Authors/Foo Wah Foong\|FOONG, F. W.]]  Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. *JAS4QoL* **2026**, *2(1)-3*, 1-7.
-  </p>
-  
-  <div style="background-color: var(--background-secondary); border: 1px dashed var(--text-muted); border-radius: 6px; padding: 10px 14px; margin-top: 10px;">
-    <div style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 1px; color: var(--text-muted); margin-bottom: 6px; font-weight: bold;">
-      📋 Clean Citation Text (Triple-click to select all)
-    </div>
-    <div style="font-size: 0.9em; line-height: 1.4; color: var(--text-muted); user-select: all; -webkit-user-select: all;">SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. JAS4QoL 2026, 2(1)-3, 1-7.</div>
-  </div>
-</div></span></div>
+<p><span><a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Erina Sato.md" data-href="Github Publish Test/Authors/Erina Sato.md" href="Github Publish Test/Authors/Erina Sato.md" class="internal-link" target="_blank" rel="noopener nofollow">SATO, E.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Yuichiro Nishioka.md" data-href="Github Publish Test/Authors/Yuichiro Nishioka.md" href="Github Publish Test/Authors/Yuichiro Nishioka.md" class="internal-link" target="_blank" rel="noopener nofollow">NISHIOKA, Y.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Foo Wah Foong.md" data-href="Github Publish Test/Authors/Foo Wah Foong.md" href="Github Publish Test/Authors/Foo Wah Foong.md" class="internal-link" target="_blank" rel="noopener nofollow">FOONG, F. W.</a>  Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. <em>JAS4QoL</em> <strong>2026</strong>, <em>2(1)-3</em>, 1-7.</span></p><p><span><pre class="language-text"><code class="language-text is-loaded">${cleanCitation}
+</code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre></span></p>
 
 
 
