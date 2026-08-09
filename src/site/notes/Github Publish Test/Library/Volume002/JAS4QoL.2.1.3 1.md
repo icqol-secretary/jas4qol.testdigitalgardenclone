@@ -79,7 +79,21 @@ shows nice, no clicks
 
 
 ## new 2
-<div><p title="Click text to copy citation"><a>SATO, E.</a><span>; </span><a>NISHIOKA, Y.</a><span>; </span><a>FOONG, F. W.</a><span> Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. JAS4QoL 2026, 2(1)-3, 1-7.</span></p><div><button>📋 Click to copy citation</button><span>(Or click the text above directly)</span></div></div>
+<div><span><div style="margin: 1.5em 0;">
+  
+  <p title="Click text to copy citation" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted); padding-bottom: 8px; margin-bottom: 12px; line-height: 1.5; color: var(--text-normal);" dir="auto">
+     
+     [[Github Publish Test/Authors/Erina Sato\|SATO, E.]]; [[Github Publish Test/Authors/Yuichiro Nishioka\|NISHIOKA, Y.]]; [[Github Publish Test/Authors/Foo Wah Foong\|FOONG, F. W.]]  Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. *JAS4QoL* **2026**, *2(1)-3_, 1-7.
+  </p>
+  
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <button style="cursor: pointer; padding: 6px 12px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">
+      📋 Click to copy citation
+    </button>
+    <span style="font-size: 0.85em; color: var(--text-muted); transition: color 0.2s;" class="copy-hint">(Or click the text above directly)</span>
+  </div>
+</div></span></div>
+
 
 
 
