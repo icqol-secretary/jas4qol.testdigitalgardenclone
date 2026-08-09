@@ -18,7 +18,7 @@
 <button onclick="navigator.clipboard.writeText(`SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.`); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
 
 
-<button onclick="navigator.clipboard.writeText(SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
+<button onclick="navigator.clipboard.writeText('"'+SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.+'"'); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
 
 
 ## Keywords
