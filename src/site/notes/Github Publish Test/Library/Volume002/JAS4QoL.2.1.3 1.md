@@ -73,8 +73,6 @@ Author pages: [[Github Publish Test/Authors/Erina Sato\|Erina Sato]],[[Github Pu
 ### new
 
 
-<div><p title="Click text to copy citation"><a>SATO, E.</a><span>; </span><a>NISHIOKA, Y.</a><span>; </span><a>FOONG, F. W.</a><span> Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. JAS4QoL 2026, 2(1)-3, 1-7.</span></p><div>(📋 Click the citation text above to copy clean text 📋)</div></div>
-
 <div><p title="Click text to copy citation"><a>SATO, E.</a><span>; </span><a>NISHIOKA, Y.</a><span>; </span><a>FOONG, F. W.</a><span> Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. JAS4QoL 2026, 2(1)-3, 1-7.</span></p><div><button>📋 Click to copy citation</button><span>(Or click the text above directly)</span></div></div>
 
 
