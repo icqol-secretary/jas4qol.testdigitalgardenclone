@@ -69,17 +69,9 @@ Author pages: [[Github Publish Test/Authors/Erina Sato\|Erina Sato]],[[Github Pu
 <span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted);" title="Click to copy citation">[[Erina Sato \| SATO, E.]]; [[Yuichiro Nishioka \| NISHIOKA, Y.]]; [[Foo Wah Foong \| FOONG, F. W.]] Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.</span>
 (📋 Click **citation** to copy 📋)
 
-<pre class="dataview dataview-error">Evaluation Error: TypeError: dv.markdownLink is not a function
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:13:95)
-    at Array.reduce (&lt;anonymous&gt;)
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:13:39)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:726717)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)</pre>
+<div><span></span><button>📋 Click to copy clean citation</button></div><h4><span><a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Erina Sato.md" data-href="Github Publish Test/Authors/Erina Sato.md" href="Github Publish Test/Authors/Erina Sato.md" class="internal-link" target="_blank" rel="noopener nofollow">SATO, E.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Yuichiro Nishioka.md" data-href="Github Publish Test/Authors/Yuichiro Nishioka.md" href="Github Publish Test/Authors/Yuichiro Nishioka.md" class="internal-link" target="_blank" rel="noopener nofollow">NISHIOKA, Y.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Foo Wah Foong.md" data-href="Github Publish Test/Authors/Foo Wah Foong.md" href="Github Publish Test/Authors/Foo Wah Foong.md" class="internal-link" target="_blank" rel="noopener nofollow">FOONG, F. W.</a> Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. <em>JAS4QoL</em> <strong>2026</strong>, <em>2(1)-3</em>, 1-7.</span></h4>
+
+
 
 ## Keywords
 
