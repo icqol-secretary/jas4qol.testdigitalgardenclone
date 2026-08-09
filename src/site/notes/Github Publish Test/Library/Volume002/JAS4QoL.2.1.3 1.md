@@ -71,18 +71,7 @@ Author pages: [[Github Publish Test/Authors/Erina Sato\|Erina Sato]],[[Github Pu
 
 
 ### new
-
-<pre class="dataview dataview-error">Evaluation Error: ReferenceError: component is not defined
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:27:65)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:726717)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:12672:23)
-    at Generator.next (&lt;anonymous&gt;)</pre>
+<span title="Click text to copy citation" style="display: block; cursor: pointer; border-bottom: 1px dashed var(--text-muted); margin-bottom: 12px; line-height: 1.5;"><span><a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Erina Sato.md" data-href="Github Publish Test/Authors/Erina Sato.md" href="Github Publish Test/Authors/Erina Sato.md" class="internal-link" target="_blank" rel="noopener nofollow">SATO, E.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Yuichiro Nishioka.md" data-href="Github Publish Test/Authors/Yuichiro Nishioka.md" href="Github Publish Test/Authors/Yuichiro Nishioka.md" class="internal-link" target="_blank" rel="noopener nofollow">NISHIOKA, Y.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Foo Wah Foong.md" data-href="Github Publish Test/Authors/Foo Wah Foong.md" href="Github Publish Test/Authors/Foo Wah Foong.md" class="internal-link" target="_blank" rel="noopener nofollow">FOONG, F. W.</a> Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. <em>JAS4QoL</em> <strong>2026</strong>, <em>2(1)-3</em>, 1-7.</span></span><div style="font-size: 0.85em; color: var(--text-muted); margin-bottom: 12px;"><span>(📋 Click the citation text above to copy clean text 📋)</span></div>
 
 
 ## Keywords
