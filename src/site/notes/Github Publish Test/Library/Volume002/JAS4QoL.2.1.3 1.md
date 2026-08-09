@@ -20,7 +20,7 @@
 
 <button onclick="navigator.clipboard.writeText(`'=this.citation'`); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
 
-<button onclick="navigator.clipboard.writeText(`\"=this.citation\"`); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
+<button onclick="navigator.clipboard.writeText(`/"=this.citation/"`); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Copy Citation', 1500);" style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Copy Citation</button>
 
 ## Keywords
 
