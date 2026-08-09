@@ -69,6 +69,10 @@ Author pages: [[Github Publish Test/Authors/Erina Sato\|Erina Sato]],[[Github Pu
 <span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted);" title="Click to copy citation">[[Erina Sato \| SATO, E.]]; [[Yuichiro Nishioka \| NISHIOKA, Y.]]; [[Foo Wah Foong \| FOONG, F. W.]] Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.</span>
 (📋 Click **citation** to copy 📋)
 
+
+### new
+
+
 <div><span></span><button>📋 Click to copy clean citation</button></div><h4><span><a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Erina Sato.md" data-href="Github Publish Test/Authors/Erina Sato.md" href="Github Publish Test/Authors/Erina Sato.md" class="internal-link" target="_blank" rel="noopener nofollow">SATO, E.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Yuichiro Nishioka.md" data-href="Github Publish Test/Authors/Yuichiro Nishioka.md" href="Github Publish Test/Authors/Yuichiro Nishioka.md" class="internal-link" target="_blank" rel="noopener nofollow">NISHIOKA, Y.</a>; <a data-tooltip-position="top" aria-label="Github Publish Test/Authors/Foo Wah Foong.md" data-href="Github Publish Test/Authors/Foo Wah Foong.md" href="Github Publish Test/Authors/Foo Wah Foong.md" class="internal-link" target="_blank" rel="noopener nofollow">FOONG, F. W.</a> Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. <em>JAS4QoL</em> <strong>2026</strong>, <em>2(1)-3</em>, 1-7.</span></h4>
 
 
