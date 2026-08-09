@@ -55,8 +55,12 @@ Author pages: [[Github Publish Test/Authors/Erina Sato\|Erina Sato]],[[Github Pu
 
 ## Citation
 
+
 <span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" style="cursor: pointer; border-bottom: 1px dashed var(--text-muted);" title="Click to copy citation">[[Github Publish Test/Authors/Erina Sato\|SATO, E.]]; [[Github Publish Test/Authors/Yuichiro Nishioka\|NISHIOKA, Y.]]; [[Github Publish Test/Authors/Foo Wah Foong\|FOONG, F. W.]] Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.</span>
 (📋 Click **citation** to copy 📋)
+
+
+
 
 ## Keywords
 
@@ -86,7 +90,7 @@ Author pages: [[Github Publish Test/Authors/Erina Sato\|Erina Sato]],[[Github Pu
   const fullUrl = 'https://jas4qoltestdigitalgardenclone.vercel.app/img/user/' + cleanPath;
   navigator.clipboard.writeText(fullUrl); 
   this.innerText='📋 Copied!'; 
-  setTimeout(() => this.innerText='📋 Click to copy link  📋'+ fullUrl, 1500);
+  setTimeout(() => this.innerText='📋 Click to copy link  📋', 1500);
 " style="cursor: pointer; padding: 4px 8px; border-radius: 4px; background-color: var(--interactive-accent); color: var(--text-on-accent); border: none; font-size: 0.85em; font-weight: bold;">📋 Click  to copy link 📋</button>
 
 ## Preview
