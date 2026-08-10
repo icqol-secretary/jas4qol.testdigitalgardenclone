@@ -13,7 +13,7 @@
 
 <span onclick="navigator.clipboard.writeText(this.innerText); this.style.color='var(--text-success)'; setTimeout(() => this.style.color='', 1000);" class="abstract hoverableData" title="Click to copy citation">[[Github Publish Test/Authors/Erina Sato\|SATO, E.]]; [[Github Publish Test/Authors/Yuichiro Nishioka\|NISHIOKA, Y.]]; [[Github Publish Test/Authors/Foo Wah Foong\|FOONG, F. W.]] Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.</span>
 <button 
-onclick="const citationButtonText = 'SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.'; navigator.clipboard.writeText(citationButtonText); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Click button or text to copy📋', 1500);" class="citation copyButton" >📋 Click button or text to copy 📋</button>
+onclick="const citationButtonText = 'SATO, E.; NISHIOKA, Y.; FOONG, F. W. Learning Science English after Prior Exposure: Feedback from Year-1 Pharmacy Students Learning Pharmaceutical Science English at the Tertiary Level. _JAS4QoL_ **2026**, _2(1)-3_, 1-7.'; navigator.clipboard.writeText(citationButtonText); this.innerText='📋 Copied!'; setTimeout(() => this.innerText='📋 Click button or text to copy 📋', 1500);" class="citation copyButton" >📋 Click button or text to copy 📋</button>
 
 ## Keywords
 
