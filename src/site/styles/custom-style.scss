@@ -173,6 +173,7 @@ button.crumbs-chevron.clickable-icon {
 /* Hide title and icon for a custom callout type named "articleabstract" */
 .callout[data-callout="articleabstract"] {
     --callout-padding: 10px; /* Adjust padding as needed */
+        border-style: none;
 }
 .callout[data-callout="articleabstract"] .callout-title {
     display: none;
