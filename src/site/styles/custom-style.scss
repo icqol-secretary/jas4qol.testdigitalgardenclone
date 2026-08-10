@@ -11,3 +11,162 @@ body {
     //   color: black;
     //  }
 }
+/* breadcrumbs */
+.BC-trail {
+    flex: 0;
+    width: 0;
+    display: none;
+}
+/* END breadcrumbs */
+
+/* 
+settings sidebar organizer
+*/
+
+.my-org-group-card .setting-item .setting-item-control {
+    min-width: 60%;
+}
+
+.my-org-group-card .setting-item .setting-item-control input[type="text"] {
+    width: 100%;
+}
+
+.my-org-group-card .setting-item .setting-item-control {
+    flex: 2 1 auto;
+}
+
+/* hover over community plugins click area */
+
+div.my-org-section-btn[aria-label="Manage plugins"]:hover::after {
+    background-color: aliceblue;
+    opacity: 0.25;
+    border-left: 1px solid pink;
+    border-right: 1px solid pink;
+    border-radius: 10px;
+}
+
+/* END hover over community plugins click area */
+
+/* END specific to settings sidebar organizer */
+
+/* swiftSwitch */
+
+.status-bar-item.plugin-swift-snippets,
+.status-bar-item.plugin-regex-css-highlighter {
+    width: 16px;
+    overflow: hidden;
+}
+.status-bar-item.plugin-swift-snippets::before {
+    content: "👓";
+}
+
+.status-bar-item.plugin-regex-css-highlighter::before {
+    content: "🕶️";
+}
+
+/* END swift switch */
+
+/* fix settings headings to make them more visible */
+
+.setting-item-heading:first-child {
+    font-variant: small-caps;
+    font-size: 100%;
+    /* background: var(--text-selection); */
+    margin-top: 20px;
+    padding-left: 10px;
+    /* margin-bottom: 15px;*/
+    /* text-decoration: underline;*/
+    border-top: 3px solid var(--text-normal);
+    border-bottom: 3px solid var(--text-normal);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: maroon;
+    width: 100%;
+}
+
+/* background modifier hover for status bar hover */
+@media (hover: hover) {
+    .status-bar-item.mod-clickable:hover {
+        --background-modifier-hover: #4a0000; /*oxblood*/
+        background-color: var(--background-modifier-hover);
+        color: unset;
+    }
+}
+
+/* 
+crumbs bar fixes
+*/
+
+.crumbs-bar,
+.crumbs-segment {
+    display: flex;
+}
+
+button.crumbs-chevron.clickable-icon {
+    display: content;
+}
+
+.crumbs-bar:before {
+    content: ">";
+    padding-right: 0.5ch;
+}
+.crumbs-separator {
+    display: none;
+}
+
+.crumbs-container {
+    font-size: 75%;
+    color: orange;
+    font-family: arial, sans-serif;
+    font-style: italic;
+}
+
+.crumbs-segment-name {
+    padding-left: 0.5ch;
+}
+
+/* END crumbs */
+
+/* Hide the properties block globally, but only in Reading View */
+/* Force hide the properties block specifically in Reading View */
+.markdown-preview-view .metadata-container {
+    display: none !important;
+}
+
+/* Hide the properties block globally, but only in Reading View */
+
+/* article page css */
+
+.hoverableData {
+    cursor: pointer;
+}
+
+.hoverableData:hover {
+    cursor: grab;
+    border-bottom: 1px dashed var(--text-muted);
+}
+
+.copyButton {
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: var(--text-on-accent);
+    border: none;
+    font-size: 0.85em;
+    font-weight: bold;
+}
+
+.copyButton:hover {
+    cursor: grab;
+    background-color: var(--interactive-accent) !important;
+}
+
+.callout[data-callout="articleabstract"] .callout-icon {
+  display: none;
+}
+
+.callout[data-callout="articleabstract"] .callout-content p {
+    text-align: justify;
+}
+
+
