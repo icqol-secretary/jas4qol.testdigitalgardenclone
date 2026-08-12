@@ -7,7 +7,8 @@
 
 ## List of Works
 
-| File | Paper Title | Citation String (Click code to copy) |
-| ---- | ----------- | ------------------------------------ |
+| File                                                         | Paper Title                                                                                                | Citation String (Click code to copy)                                                                                                                      |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Jas4QoL Home/Library/Volume001/Untitled 2\|Untitled 2]] | A study of the Relationship Between Everyday Life and Gardens, Based on Water Systems in Kyoto City, Japan | IMAE, H.. A study of the Relationship Between Everyday Life and Gardens, Based on Water Systems in Kyoto City, Japan. _JAS4QoL_ **2026**, _1(1)-1_, 1-11. |
 
 { .block-language-dataview}  
